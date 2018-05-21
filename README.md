@@ -1,10 +1,24 @@
 # Projects-AI
-Projects of Udacity Nanodegree programs and others
+Projects of Udacity Nanodegree programs, Coursera, and others.
 
 ***Note***: This is a place to host all projects I have completed in Udactiy Nanodegree programs, DataCamp, Coursera.
 
+## Deep Learning Engineer Nanodegree (Udacity)
+Projects from [DLND Udcity](https://github.com/udacity/deep-learning).
 
-## Machine Learning Engineer Nanodegree
+#### [Image classification](https://github.com/eexzy/projects-AI/tree/master/P5-image-classification): 
+* Build a convolutional neural network with TensorFlow to classify CIFAR-10 images.
+
+#### [Text Generation](https://github.com/eexzy/projects-AI/tree/master/tv-script-generation): 
+* Train a recurrent neural network on scripts from The Simpson's (copyright Fox) to generate new scripts.
+
+####[Machine Translation](https://github.com/eexzy/projects-AI/tree/master/language-translation): 
+* Train a sequence to sequence network for English to French translation (on a simple dataset)
+
+#### [Face Generation](https://github.com/eexzy/projects-AI/tree/master/face_generation): 
+* Use a DCGAN on the CelebA dataset to generate images of novel and realistic human faces.
+
+## Machine Learning Engineer Nanodegree (Udacity)
 
 #### Project 0: [Titanic Survival Exploration](https://github.com/eexzy/projects-AI/tree/master/P0_titanic_survival_exploration)
 
@@ -58,5 +72,12 @@ Python libraries required:
 **Deep Learning CNN**
 
 Build a convolutional neural network with TensorFlow to classify CIFAR-10 images.
+
+
+## Deep Learning Specialization (Coursera)
+
+This is a serious of courses from Andrew Ng in Coursera. Refer to [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) for more information.
+
+#### Course 1: [Neural Networks and Deep Learning](https://github.com/eexzy/projects-AI/tree/master/deeplearning.ai-specialization/Course1-Neural-Networks-and-Deep-Learning)
 
 
