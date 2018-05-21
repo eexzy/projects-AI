@@ -54,7 +54,7 @@ Python libraries required:
 - [matplotlib](http://matplotlib.org/)
 - [PyGame](http://pygame.org/)
 
-#### Project 5: [Train a Smartcab How to Drive](https://github.com/eexzy/projects-AI/tree/master/P4_smartcab-to-drive)
+#### Project 5: [Image Classification](https://github.com/eexzy/projects-AI/tree/master/P5-image-classification)
 **Deep Learning CNN**
 
 Build a convolutional neural network with TensorFlow to classify CIFAR-10 images.
