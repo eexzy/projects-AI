@@ -28,7 +28,7 @@ Projects from [DLND Udcity](https://github.com/udacity/deep-learning).
 * Train a sequence to sequence network for English to French translation (on a simple dataset)
 
 #### [Face Generation](https://github.com/eexzy/projects-AI/tree/master/face_generation): 
-* Use a DCGAN on the CelebA dataset to generate images of novel and realistic human faces.
+* Use a DCGAN(Deep Convolutional GAN) on the CelebA dataset to generate images of novel and realistic human faces.
 
 ## Machine Learning Engineer Nanodegree (Udacity)
 
