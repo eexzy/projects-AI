@@ -11,14 +11,14 @@ Projects from Artificial Intelligence Nanodegree program.
 
 
 ## Natural Language Processing Nanodegree (Udacity)
-
+Projects from Natural Language Processing Nanodegree Program.
 #### [Part of Speech Tagging](https://github.com/eexzy/projects-AI/tree/master/AIND-Isolation-master):
 * Build a Hidden Markov model for part of speech tagging.
 
 ## Deep Learning Engineer Nanodegree (Udacity)
 Projects from [DLND Udcity](https://github.com/udacity/deep-learning).
 
-#### [Image classification](https://github.com/eexzy/projects-AI/tree/master/P5-image-classification): 
+#### [Image Classification](https://github.com/eexzy/projects-AI/tree/master/P5-image-classification): 
 * Build a convolutional neural network with TensorFlow to classify CIFAR-10 images.
 
 #### [Text Generation](https://github.com/eexzy/projects-AI/tree/master/tv-script-generation): 
