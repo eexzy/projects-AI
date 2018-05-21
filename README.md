@@ -12,7 +12,7 @@ Projects from [DLND Udcity](https://github.com/udacity/deep-learning).
 #### [Text Generation](https://github.com/eexzy/projects-AI/tree/master/tv-script-generation): 
 * Train a recurrent neural network on scripts from The Simpson's (copyright Fox) to generate new scripts.
 
-####[Machine Translation](https://github.com/eexzy/projects-AI/tree/master/language-translation): 
+#### [Machine Translation](https://github.com/eexzy/projects-AI/tree/master/language-translation): 
 * Train a sequence to sequence network for English to French translation (on a simple dataset)
 
 #### [Face Generation](https://github.com/eexzy/projects-AI/tree/master/face_generation): 
