@@ -7,7 +7,7 @@ Projects of Udacity Nanodegree programs, Coursera, and others.
 Projects from Artificial Intelligence Nanodegree program.
 
 #### [Build a Game-palying Agent](https://github.com/eexzy/projects-AI/tree/master/hmm-tagger):
-* Build an adversarial serach agent to play the game "Isolation", using minimax and alphabete pruning. 
+* Build an adversarial serach agent to play the game "Isolation", using minimax and alphabeta pruning. 
 
 
 ## Natural Language Processing Nanodegree (Udacity)
