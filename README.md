@@ -6,13 +6,13 @@ Projects of Udacity Nanodegree programs, Coursera, and others.
 ## Artificial Intelligence Nanodegree (Udacity)
 Projects from Artificial Intelligence Nanodegree program.
 
-#### [Build a Game-palying Agent](https://github.com/eexzy/projects-AI/tree/master/hmm-tagger):
+#### [Build a Game-palying Agent](https://github.com/eexzy/projects-AI/tree/master/AIND-Isolation-master):
 * Build an adversarial serach agent to play the game "Isolation", using minimax and alphabeta pruning. 
 
 
 ## Natural Language Processing Nanodegree (Udacity)
 Projects from Natural Language Processing Nanodegree Program.
-#### [Part of Speech Tagging](https://github.com/eexzy/projects-AI/tree/master/AIND-Isolation-master):
+#### [Part of Speech Tagging](https://github.com/eexzy/projects-AI/tree/master/hmm-tagger):
 * Build a Hidden Markov model for part of speech tagging.
 
 ## Deep Learning Engineer Nanodegree (Udacity)
