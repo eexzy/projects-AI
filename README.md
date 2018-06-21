@@ -6,6 +6,13 @@ Projects of Udacity Nanodegree programs, Coursera, and others.
 ## Artificial Intelligence Nanodegree (Udacity)
 Projects from Artificial Intelligence Nanodegree program.
 
+#### [Build a Sign Language Recognizer](https://github.com/eexzy/projects-AI/tree/master/AIND-Recognizer):
+* Build a system that can recognize words communicated using the American Sign Language (ASL), using HMMs. 
+
+#### [Implement a Planning Search](https://github.com/eexzy/projects-AI/tree/master/AIND-Planning):
+* This project includes skeletons for the classes and functions needed to solve deterministic logistics planning problems for an Air Cargo transport system using a planning search agent. 
+
+
 #### [Build a Game-palying Agent](https://github.com/eexzy/projects-AI/tree/master/AIND-Isolation-master):
 * Build an adversarial serach agent to play the game "Isolation", using minimax and alphabeta pruning. 
 
